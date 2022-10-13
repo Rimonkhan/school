@@ -1,0 +1,574 @@
+@media screen and (min-device-width: 1366px) {
+  body {
+  }
+} /*1366px or less (background is blue) */
+
+@media screen and (min-device-width: 1024px) {
+  .header .menuBar {
+    display: none;
+  }
+  .banner .logoMan img {
+    width: 365px;
+    height: 300px;
+    margin-left: 0;
+  }
+  .banner .col-1 {
+    width: 49%;
+    padding: 4rem;
+  }
+  .banner .text p {
+    font-size: 1.2rem;
+  }
+  .Learning img {
+    width: 391px;
+  }
+  .Teaching .col3 {
+    width: 28%;
+  }
+  .Teaching .TechingText {
+    width: 40%;
+    color: red;
+    margin: 8rem 0 0 2rem;
+  }
+  .Teaching {
+    padding: 3rem;
+  }
+  .Teaching img {
+    width: 245px;
+  }
+  .Teaching p {
+    font-size: 1.4rem;
+  }
+  .Teaching h4 {
+    font-size: 1.2rem;
+  }
+  .Admission {
+    padding: 1rem;
+    margin: 6% 0;
+  }
+  .Admission p {
+    margin-right: 3rem;
+    font-size: 1.5rem;
+  }
+  .Course {
+    padding: 1rem;
+  }
+
+  .Course .col-3 {
+    width: 29%;
+  }
+  .Skrill {
+    width: 100%;
+    min-height: 49vh;
+    padding: 2rem;
+font-size: 1.5rem;
+    margin: 10% 0;
+  }
+  .UpdateNews {
+    padding: 2rem;
+}
+.footer {
+    height: 65vh;
+    padding: 4rem;
+}
+} /*  1024px or less (background is pink) */
+
+@media screen and (max-width: 991.98px) {
+  .header {
+    height: 132vh;
+  }
+  .header .menuBar {
+    display: none;
+  }
+  .banner .col-1 {
+    padding: 2rem;
+    margin: 4rem 0 0 0;
+  }
+  .banner .logoMan img {
+    width: 320px;
+    height: 317px;
+    margin-left: 0;
+  }
+  .banner .text p {
+    font-size: 1.5rem;
+  }
+  .banner .text h2 {
+    font-size: 2.3rem;
+  }
+  .Experience .text1 p {
+    font-size: 1.4rem;
+  }
+  .Experience .text1 h2 {
+    font-size: 2.2rem;
+  }
+  .Experience .box {
+    width: 92%;
+    height: 35vh;
+    margin-left: 1rem;
+  }
+  .Experience .box h4,
+  p {
+    margin-top: 1.5rem;
+    font-size: 1.4rem;
+  }
+  .Learning {
+    padding: 0rem;
+    margin: 2rem 0 4rem 0;
+  }
+  .Learning img {
+    width: 367px;
+  }
+  .Learning #Education {
+    margin-left: 4.5rem;
+  }
+  .Learning p {
+    font-size: 1.5rem;
+  }
+  .Learning h2 {
+    font-size: 2.1rem;
+  }
+  .Learning h4 {
+    font-size: 1.6rem;
+  }
+  .Skrill {
+    min-height: 77vh;
+  }
+  .University .col2 {
+    padding: 1rem;
+  }
+  .allDipartment ul li {
+    padding: 1rem 1rem 1rem 1rem;
+    margin-left: 0.5rem;
+    font-size: 1.5rem;
+  }
+  .University h2 {
+    font-size: 1.8rem;
+  }
+  .University h4 {
+    font-size: 1.4rem;
+  }
+  .Teaching .TechingText {
+    width: 40%;
+    margin: 3rem 0 0 2rem;
+  }
+  .Teaching {
+    padding: 0rem;
+    margin: 2rem 0 0 0;
+  }
+  .Teaching .col3 {
+    width: 31%;
+  }
+  .Teaching h4 {
+    font-size: 1.4rem;
+  }
+
+  .Teaching p {
+    font-size: 1.4rem;
+  }
+  .defaultButton {
+    width: 11rem;
+    height: 4rem;
+    font-size: 1.4rem;
+  }
+  .Upcoming .uptext1 {
+    min-height: 47vh;
+  }
+  .Admission img {
+    width: 82%;
+  }
+  .Admission .admissionText {
+    margin: 0rem 0 0 0;
+    font-size: 1.4rem;
+  }
+  .Admission p {
+    margin-right: -3rem;
+  }
+  .Admission h4 {
+    font-size: 20px;
+  }
+  .Course .col-3 {
+    width: 45%;
+    margin-left: 2rem;
+  }
+  .Course #courseh {
+    margin: 1.5rem 0;
+  }
+  .Skrill {
+    padding: 0;
+  }
+  .Event {
+    height: 24vh;
+  }
+
+  .Apply .apply1 {
+    width: 49%;
+  }
+  .UpdateNews {
+    width: 100%;
+    padding: 0rem;
+    margin: 4rem 0;
+  }
+  .UpdateNews h2 {
+    font-size: 46px;
+  }
+  .footer {
+    height: 177vh;
+    padding: 1rem;
+  }
+  .footer .col-4 {
+    width: 32%;
+    padding: 2rem;
+  }
+  .footer .About ul li {
+    font-size: 1.4rem;
+  }
+  .footer address {
+    font-size: 1.4rem;
+  }
+  .footer .Uni ul li {
+    font-size: 1.4rem;
+  }
+  .footer .Working pre {
+    font-size: 1.3rem;
+  }
+  .footer .col-2 {
+    padding: 3rem;
+  }
+  .Experience .box h4,
+  p {
+    font-size: 1.6rem;
+  }
+  .footer .Terms ul li {
+    font-size: 1.6rem;
+  }
+} /* 992px or less (background is grey) */
+
+@media screen and (max-width: 767.98px) {
+  .header .menuBar {
+    display: none;
+  }
+  .header {
+    height: 150vh;
+  }
+  .banner {
+    text-align: center;
+  }
+  .banner .col-1 {
+    width: 100%;
+    padding: 2rem;
+  }
+  .Experience .box {
+    width: 91%;
+    height: 43vh;
+    margin-left: 5rem;
+  }
+  .Experience .text1 h2 {
+    font-size: 1.3rem;
+  }
+  .Experience .box h4,
+  p {
+    margin-top: 1.5rem;
+    font-size: 1.1rem;
+  }
+  .Learning img {
+    width: 239px;
+    height: 65vh;
+  }
+  .Learning {
+    padding: 1rem;
+  }
+  #UniversityText {
+    width: 100%;
+  }
+  .University .col2 {
+    padding: 1rem;
+  }
+  .allDipartment ul li {
+    padding: 0rem 1rem 1rem 1rem;
+    margin-left: -0.5rem;
+  }
+  .allDipartment ul {
+    margin-left: 22rem;
+  }
+  hr {
+    width: 100%;
+    margin-left: 56%;
+  }
+  .Teaching {
+    padding: 0;
+    margin-top: 10%;
+  }
+  .Teaching .col3 {
+    width: 50%;
+  }
+  .Course {
+   padding:0rem;
+   margin: 2% 0;
+}
+  
+  .Teaching .TechingText {
+    width: 40%;
+    margin: 3rem 0 0 10rem;
+  }
+  .Teaching h2 {
+    font-size: 1.3rem;
+  }
+  .Admission .admissionText {
+    margin: 0rem 0 0 39px;
+  }
+  .Skrill {
+margin: 2% 0;
+    height:65vh;
+  }
+  .Skrill .col-3 {
+    width: 29%;
+    margin: 0 0 0 2rem;
+  }
+  .Admission img {
+    width: 105%;
+  }
+  .Course .col-3 {
+    width: 41%;
+  }
+  .Upcoming .uptext1 {
+    min-height: 44vh;
+  }
+  .Upcoming .uptext1 img {
+    width: 19%;
+    height: 33vh;
+  }
+  .Apply .apply1{
+    width:48%;
+  }
+  
+  .Event {
+    line-height: 1.1rem;
+  }
+  .Event {
+    height: 25vh;
+  }
+  .Event #demo {
+    font-size: 1.3rem;
+  }
+  .UpdateNews {
+    padding: 1rem;
+    margin-top: 8%;
+  }
+  .UpdateNews .col-3 {
+    width: 100%;
+    margin: 10px 0rem;
+  }
+  .UpdateNews img {
+    width: 85%;
+  }
+  .footer {
+    height: 134vh;
+    padding: 1rem;
+  }
+  .footer .col-4 {
+    width: 33%;
+    padding: 2rem;
+  }
+  .footer h1 {
+    margin-bottom: 0.5rem;
+    font-size: 1.3rem;
+  }
+  .footer #Working {
+    margin: 0px 0 0 -10px;
+  }
+  .footer .Working hr {
+    margin: auto;
+  }
+  .footer .col-2 {
+    width: 50%;
+    padding: 1rem;
+  }
+  .footer #hr {
+    margin: auto;
+  }
+  .footer .Terms ul li {
+    margin: 1px 2.5rem;
+  }
+}
+
+/*768px or less (background is green) */
+
+@media screen and (max-width: 575.98px) {
+  .header {
+    min-height: 150vh;
+    text-align: center;
+  }
+  .menuBar {
+    display: none;
+  }
+  .banner .col-1 {
+    width: 100%;
+  }
+  .banner .bannerText {
+    padding: 2rem;
+  }
+  .banner img {
+    padding: 1rem 0;
+  }
+  .banner .logoMan img {
+    width: 372px;
+    height: 390px;
+    margin: 1rem -2rem;
+  }
+  .Experience .text1 {
+    margin: 1rem 0;
+    text-align: center;
+  }
+  .Experience .text1 h2 {
+    font-size: 1.2rem;
+  }
+  .Experience .col3 {
+    width: 100%;
+  }
+  .Experience .box {
+    height: 40vh;
+    margin: 0;
+  }
+  .Learning .col2 {
+    width: 100%;
+  }
+  .Learning img {
+    width: 397px;
+  }
+  .Learning {
+    margin: -3rem 0 0 0;
+  }
+  .Learning #Education {
+    margin: 1rem 0;
+  }
+  .University .col2 {
+    width: 100%;
+    padding: 2rem;
+  }
+  .allDipartment ul li {
+    padding: 0rem 0rem 1rem 5rem;
+    margin-left: 0.5rem;
+  }
+  .University h2 {
+    font-size: 1.1rem;
+  }
+  .University img {
+    margin: 3% 23%;
+  }
+  .Teaching {
+    padding: 1rem 0 0 0;
+  }
+  .Teaching .col3 {
+    width: 45.33%;
+    margin: 0px 2%;
+  }
+  .Teaching .TechingText {
+    text-align: center;
+    margin: 2% 0 0 24%;
+  }
+  .Teaching .TechingText h2 {
+    font-size: 1.3rem;
+  }
+  .Teaching .TechingText p {
+    font-size: 1.1rem;
+  }
+  .Admission {
+    padding: 1rem;
+    margin-top: 3rem;
+  }
+  .Admission .admissionText {
+    margin: 0;
+  }
+  .Admission p {
+    margin-right: 0;
+  }
+  .Course {
+    margin-top: 10%;
+    padding: 0;
+  }
+  .Course .col-3 {
+    width: 41%;
+  }
+
+  .Skrill {
+    padding: 1rem;
+    text-align: center;
+  }
+  .Skrill .col-3 {
+    width: 100%;
+    margin: 5% 0;
+  }
+
+  .Apply {
+    padding: 2rem;
+    margin-top: 35%;
+  }
+  .Apply .apply1 {
+    width:45%;
+    height: 45%;
+  }
+  .Upcoming{
+    margin: 2% 0;
+    padding: 1rem;
+  }
+  .Upcoming .uptext1 {
+    min-height: 43vh;
+  }
+  .Event {
+    height: 32vh;
+  }
+  .Event .col-3 {
+    width: 32%;
+    height: 20vh;
+  }
+  .Event #demo {
+    font-size: 1.5rem;
+    line-height: 2.5rem;
+  }
+  .UpdateNews {
+    padding: 2rem;
+  }
+  .UpdateNews .col-3 {
+    width: 26%;
+    margin: 0 1rem;
+  }
+  .UpdateNews h4 {
+    text-align: start;
+    margin-right: 5%;
+  }
+  .UpdateNews h1 {
+    font-size: 1.2rem;
+  }
+  .footer {
+    height: auto;
+    padding: 1rem;
+    text-align: center;
+  }
+  .footer .col-4 {
+    width: 30%;
+  }
+  .footer .col-2 {
+    width: 50%;
+    padding: 2rem;
+  }
+  .footer .Terms ul li {
+    font-size: 1.2rem;
+    padding: 0.5rem 14px;
+    margin: 0 0.5rem;
+  }
+
+  .footer #Working {
+    width: 100%;
+    text-align: center;
+  }
+  .footer #Working hr {
+    width: 50%;
+  }
+  .footer #Working pre {
+    margin: 0.5rem 0;
+    color: gainsboro;
+  }
+  .footer h1 {
+    font-size: 1.2rem;
+  }
+} /*576px or less (background is yellow) */
